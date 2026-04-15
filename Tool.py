@@ -14,8 +14,8 @@ import json
 
 
 
-TOKEN = "PUT_YOUR_TOKEN_HERE"
-ADMIN_ID = YOUR ID 
+TOKEN = "put your token here"
+ADMIN_ID = PUT YOUR ID 
 
 PAYMENT_ADDRESSES = {
     "USDT Aptos, APT": "PAYMENT_ADDRESSES",
